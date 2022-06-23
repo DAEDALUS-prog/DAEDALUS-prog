@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m interested in programming, C++, python, software development
-- 🌱 I’m currently learning django and constantly improving my knowledge
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning C++, Python & Django and constantly improving my knowledge
 - 📫 How to reach me: •mail - timofei.mateev@yandex.ru
                  
 
